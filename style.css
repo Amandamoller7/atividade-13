@@ -1,9 +1,15 @@
-.navebar{
+#navebar{
     background-color: black;
-    color :blue
+    color :blue;
+    display:flex;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    align-items: center;
 }
-
+#navebar img{
+    align-items: center;
+    height: 100px;
+}
 body{
     background-color: black;
-    color :blue 
+    color :rgb(215, 215, 226);
 }
