@@ -14,7 +14,10 @@ body{
     color :rgb(215, 215, 226);
 }
 
-#formulario{
+#cadastro{
+    align-items: center;
+    justify-content: center;
+
 
 }
 .formulario{
