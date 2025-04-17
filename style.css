@@ -4,6 +4,7 @@
     display:flex;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     align-items: center;
+ 
 }
 #navebar img{
     align-items: center;
@@ -15,17 +16,18 @@ body{
 }
 
 #cadastro{
-    align-items: center;
-    justify-content: center;
+   
+    
 
 
 }
 .formulario{
-    
+   
  
 }
 
 .esticando{
-  align-items: center;
+
+  
 
 }
