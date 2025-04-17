@@ -4,30 +4,38 @@
     display:flex;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     align-items: center;
+    text-align: center;
+    justify-content: center;
  
 }
-#navebar img{
-    align-items: center;
+.navebarImg{
     height: 100px;
+    align-items: left;
+    text-align: left;
+    justify-content: left;
 }
 body{
     background-color: black;
     color :rgb(215, 215, 226);
+    text-align: center;
 }
 
 #cadastro{
-   
+   align-items: center;
     
 
 
 }
-.formulario{
+.formulario label{
+
    
  
 }
 
-.esticando{
 
+     
+.esticando{
+border-radius: 4px;
   
 
 }
